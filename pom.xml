@@ -37,7 +37,7 @@
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
-						<applicationName>worldtimezone-service</applicationName>
+						<applicationName>amitpk-worldtimezone-service</applicationName>
 						<password>rd9LK9cqvf4Ubxq</password>
 						<muleVersion>4.3.0</muleVersion>
 					</cloudHubDeployment>
